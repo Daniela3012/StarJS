@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    height: 100vh;
+    background-color: #FFD0D0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rate {
+    background-color: #F3F7EC;
+    padding: 15px;
+    border-radius: 5px;
+}
+.star-gray {
+    width:60px;
+    color: #aaaaaa;
+    fill:#b6b6b6;
+}
+
+.star-yellow {
+    width:60px;
+    color: #FFDB00;
+    fill: #FFDB00;
+}
